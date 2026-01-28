@@ -99,3 +99,14 @@ python -m app.main
 ---
 
 ## Запуск в Docker
+```bash
+docker compose up --build
+```
+---
+
+## Результат
+<img width="613" height="602" alt="image" src="https://github.com/user-attachments/assets/4678b7da-5aef-45ce-aefe-70f5625b7f6b" />
+
+<img width="617" height="315" alt="image" src="https://github.com/user-attachments/assets/ecb74d97-bfd6-45fe-8f79-ac33e0d3cd8f" />
+
+
