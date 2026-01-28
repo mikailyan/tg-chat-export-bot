@@ -109,4 +109,6 @@ docker compose up --build
 
 <img width="617" height="315" alt="image" src="https://github.com/user-attachments/assets/ecb74d97-bfd6-45fe-8f79-ac33e0d3cd8f" />
 
+### Результат есть в проекте
+<img width="618" height="321" alt="image" src="https://github.com/user-attachments/assets/8881171d-95c7-4763-a6af-bb2f93107643" />
 
